@@ -1,2 +1,3 @@
 # adapting_the_ig_across_ESM
-Processing and analysis code for "Adapting the intensity gradient for use across commonly derived accelerometer epoch summary measures: A Learning Network for Advanced Behavioural Data Analysis (LABDA) project"
+
+Processing and analysis code for Eckmann, H. R., Razieh, C., Chastin, S., Sherar, L. B., Hansen, B. H., & Rowlands, A. V. (2025). Adapting the Intensity Gradient for Use Across Commonly Derived Accelerometer Epoch Summary Measures: A Learning Network for Advanced Behavioural Data Analysis (LABDA) Project. Journal for the Measurement of Physical Behaviour, 8(1). https://doi.org/10.1123/jmpb.2025-0015
